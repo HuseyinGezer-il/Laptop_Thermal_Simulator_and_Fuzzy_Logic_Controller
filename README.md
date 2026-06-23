@@ -1,0 +1,2 @@
+# Laptop_Thermal_Simulator_and_Fuzzy_Logic_Controller
+
