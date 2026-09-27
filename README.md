@@ -29,7 +29,7 @@ Sistem, iki temel girdi alarak tek bir çıktı üretir:
 * *EĞER* Sıcaklık **Normal** *VE* Delta T **Sabit** *İSE* Fan Hızı **Yavaş** olsun.
 * *EĞER* Sıcaklık **Yüksek** *VE* Delta T **Hızlı Artıyor** *İSE* Fan Hızı **Maksimum** olsun. (Proaktif müdahale)
 
-# English --------------------------------
+# English
 
 This project is a simulation and controller system that models the thermal behavior of a laptop and uses **Fuzzy Logic** to optimize the processor (CPU) temperature. 
 
